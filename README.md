@@ -8,6 +8,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/priyanshu1901/Leetcode_Solution/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/priyanshu1901/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/priyanshu1901/Leetcode_Solution/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
@@ -21,5 +22,6 @@
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/priyanshu1901/Leetcode_Solution/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/priyanshu1901/Leetcode_Solution/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
