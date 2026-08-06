@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/priyanshu1901/Leetcode_Solution/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/priyanshu1901/Leetcode_Solution/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -17,4 +18,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/priyanshu1901/Leetcode_Solution/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/priyanshu1901/Leetcode_Solution/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
