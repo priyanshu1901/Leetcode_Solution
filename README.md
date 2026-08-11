@@ -26,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/priyanshu1901/Leetcode_Solution/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/priyanshu1901/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0136-single-number](https://github.com/priyanshu1901/Leetcode_Solution/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/priyanshu1901/Leetcode_Solution/tree/master/0198-house-robber) |
@@ -52,4 +53,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/priyanshu1901/Leetcode_Solution/tree/master/0136-single-number) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/priyanshu1901/Leetcode_Solution/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/priyanshu1901/Leetcode_Solution/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
